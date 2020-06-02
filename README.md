@@ -2,6 +2,8 @@
 
 O aplicativo tem como objetivo realizar um controle de entradas e saídas de pessoas em um restaurante.
 
+Com a meta de apronfundar no desenvolvimento mobile com o flutter, o aplicativo foi uma forma de adquirir experiência com a tecnologia.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
