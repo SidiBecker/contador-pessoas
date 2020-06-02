@@ -1,6 +1,6 @@
 # Contador de Pessoas
 
-A Flutter application.
+O aplicativo tem como objetivo realizar um controle de entradas e saídas de pessoas em um restaurante.
 
 ## Getting Started
 
